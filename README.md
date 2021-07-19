@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Felix and I'm a web developer from Berlin.
+
+www.felixsuhl.com
+
 <!--
 **feljx/feljx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
